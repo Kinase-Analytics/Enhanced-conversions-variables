@@ -1,0 +1,30 @@
+function () {
+
+return {
+
+"email": yourEmailVariable , // replace yourEmailVariable with variable name that captures your user’s email
+
+"phone_number": yourPhoneVariable , // repeat for yourPhoneVariable and following variable names below
+
+
+"address": {
+
+"first_name": yourFirstNameVariable
+
+"last_name": yourLastNameVariable ,
+
+"street": yourStreetAddressVariable ,
+
+"city": yourCityVariable ,
+
+"region": yourRegionVariable ,
+
+"postal_code": yourPostalCodeVariable ,
+
+"country": yourCountryVariable
+
+}
+
+}
+
+}
